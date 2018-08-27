@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\ripplelayoutmaster\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\ripplelayoutmaster\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "49",
+                        "endOffsets": "101"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "356",
+                        "endColumns": "49",
+                        "endOffsets": "401"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\ripplelayoutmaster\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\ripplelayoutmaster\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "49",
+                        "endOffsets": "101"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "356",
+                        "endColumns": "49",
+                        "endOffsets": "401"
+                    }
+                }
+            ]
+        }
+    ]
+}

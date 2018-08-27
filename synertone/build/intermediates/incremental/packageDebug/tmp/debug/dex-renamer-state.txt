@@ -1,0 +1,4 @@
+#Mon Aug 27 10:18:45 CST 2018
+base.0=D\:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\synertone\\build\\intermediates\\transforms\\dexMerger\\debug\\33
+path.0=classes.dex
+renamed.0=classes.dex

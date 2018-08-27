@@ -1,0 +1,66 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\synertone\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "208",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "354"
+                    }
+                },
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\synertone\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "21,7,12,26,16",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "922,225,493,1081,683",
+                        "endLines": "24,10,14,28,19",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "1073,485,675,1259,914"
+                    },
+                    "to": {
+                        "startLines": "2,9,39,42,45",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,359,2415,2600,2781",
+                        "endLines": "5,12,41,44,48",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "203,616,2595,2776,3009"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\snt1206\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\8ecc7ba36498f17ea0995af399ed8b6b\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "4,11,12,13,19,27,28,29,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "301,818,889,972,1382,2040,2160,2223,2377,2440",
+                        "endLines": "8,11,12,18,24,27,28,31,32,33",
+                        "endColumns": "12,70,82,12,12,119,62,12,62,131",
+                        "endOffsets": "572,884,967,1377,1799,2155,2218,2372,2435,2567"
+                    },
+                    "to": {
+                        "startLines": "13,18,19,20,26,32,33,34,37,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "621,897,968,1051,1461,1883,2003,2066,2220,2283",
+                        "endLines": "17,18,19,25,31,32,33,36,37,38",
+                        "endColumns": "12,70,82,12,12,119,62,12,62,131",
+                        "endOffsets": "892,963,1046,1456,1878,1998,2061,2215,2278,2410"
+                    }
+                }
+            ]
+        }
+    ]
+}

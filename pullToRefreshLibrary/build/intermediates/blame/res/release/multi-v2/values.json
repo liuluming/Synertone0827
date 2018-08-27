@@ -1,0 +1,188 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\pullToRefreshLibrary\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\pullToRefreshLibrary\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "31,38",
+                        "startColumns": "4,4",
+                        "startOffsets": "2672,2963",
+                        "endLines": "37,40",
+                        "endColumns": "12,12",
+                        "endOffsets": "2958,3118"
+                    }
+                },
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\pullToRefreshLibrary\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "57",
+                        "endOffsets": "112"
+                    },
+                    "to": {
+                        "startLines": "24",
+                        "startColumns": "4",
+                        "startOffsets": "2070",
+                        "endColumns": "57",
+                        "endOffsets": "2123"
+                    }
+                },
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\pullToRefreshLibrary\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "6,7,4,5,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "229,294,115,171,59",
+                        "endColumns": "63,63,54,56,54",
+                        "endOffsets": "288,353,165,223,109"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1660,1724,1788,1843,1900",
+                        "endColumns": "63,63,54,56,54",
+                        "endOffsets": "1719,1783,1838,1895,1950"
+                    }
+                },
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\pullToRefreshLibrary\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "3,5,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "59,138,99",
+                        "endColumns": "38,40,37",
+                        "endOffsets": "93,174,132"
+                    },
+                    "to": {
+                        "startLines": "21,22,23",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1955,1993,2033",
+                        "endColumns": "37,39,36",
+                        "endOffsets": "1988,2028,2065"
+                    }
+                },
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\pullToRefreshLibrary\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "from": {
+                        "startLines": "8,10,9,3,5,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "398,610,501,59,211,132",
+                        "endColumns": "101,113,107,71,69,77",
+                        "endOffsets": "495,719,604,126,276,205"
+                    },
+                    "to": {
+                        "startLines": "25,26,27,28,29,30",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "2128,2230,2344,2452,2524,2594",
+                        "endColumns": "101,113,107,71,69,77",
+                        "endOffsets": "2225,2339,2447,2519,2589,2667"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\pullToRefreshLibrary\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\pullToRefreshLibrary\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "31,38",
+                        "startColumns": "4,4",
+                        "startOffsets": "2672,2963",
+                        "endLines": "37,40",
+                        "endColumns": "12,12",
+                        "endOffsets": "2958,3118"
+                    }
+                },
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\pullToRefreshLibrary\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "57",
+                        "endOffsets": "112"
+                    },
+                    "to": {
+                        "startLines": "24",
+                        "startColumns": "4",
+                        "startOffsets": "2070",
+                        "endColumns": "57",
+                        "endOffsets": "2123"
+                    }
+                },
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\pullToRefreshLibrary\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "6,7,4,5,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "229,294,115,171,59",
+                        "endColumns": "63,63,54,56,54",
+                        "endOffsets": "288,353,165,223,109"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1660,1724,1788,1843,1900",
+                        "endColumns": "63,63,54,56,54",
+                        "endOffsets": "1719,1783,1838,1895,1950"
+                    }
+                },
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\pullToRefreshLibrary\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "3,5,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "59,138,99",
+                        "endColumns": "38,40,37",
+                        "endOffsets": "93,174,132"
+                    },
+                    "to": {
+                        "startLines": "21,22,23",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1955,1993,2033",
+                        "endColumns": "37,39,36",
+                        "endOffsets": "1988,2028,2065"
+                    }
+                },
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\pullToRefreshLibrary\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "from": {
+                        "startLines": "8,10,9,3,5,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "398,610,501,59,211,132",
+                        "endColumns": "101,113,107,71,69,77",
+                        "endOffsets": "495,719,604,126,276,205"
+                    },
+                    "to": {
+                        "startLines": "25,26,27,28,29,30",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "2128,2230,2344,2452,2524,2594",
+                        "endColumns": "101,113,107,71,69,77",
+                        "endOffsets": "2225,2339,2447,2519,2589,2667"
+                    }
+                }
+            ]
+        }
+    ]
+}

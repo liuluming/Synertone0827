@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\initActivity\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\initActivity\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "47",
+                        "endOffsets": "99"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "47",
+                        "endOffsets": "98"
+                    }
+                },
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\initActivity\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "61",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "703"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "103",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "745"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\initActivity\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\initActivity\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "47",
+                        "endOffsets": "99"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "47",
+                        "endOffsets": "98"
+                    }
+                },
+                {
+                    "source": "D:\\APP\\WYZS\\02_Android\\CODE\\trunk\\STUDIO\\v_3_1\\src-app\\initActivity\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "61",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "703"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "103",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "745"
+                    }
+                }
+            ]
+        }
+    ]
+}
